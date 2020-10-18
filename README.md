@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🔭 I'm working for my bachelor's degree
-- 🌱 I’m currently learning something about security
-- ⚽ I like playing football very much
+- 🔭 I'm working for my bachelor's degree and graduate at 2021.
+- 🌱 I’m currently learning: `Verilog, Xilinx ISE, Cryptography, Security...`.
+- ⚽ I like playing football very much.
 
+### Preferences
 [![iamywang's github stats](https://github-readme-stats.vercel.app/api?username=iamywang&count_private=true&show_icons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
 
