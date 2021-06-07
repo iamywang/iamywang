@@ -1,6 +1,7 @@
 ### Basic Info
-- 🔭 Job:`student`
+- 🔭 Current:`student`
 - 🌱 Learing: `ARM`, `RISC-V`, `FPGA`, `Security`
+- 💻 Coding: `Java`, `Python`, `C`, `Assembly`, `...`
 - ⚽ Hobbies: `football`
 - 😄 Pronouns: `No 996, plz.`
 
