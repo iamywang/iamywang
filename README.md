@@ -1,11 +1,15 @@
-### Hi there 👋
-- 🔭 I'm working for my bachelor's degree and graduate at 2021.
-- 🌱 I’m currently learning: `Verilog, Xilinx ISE, Cryptography, Security...`.
-- ⚽ I like playing football very much.
+### Basic Info
+- 🔭 Job:`student`
+- 🌱 Learing: `ARM`, `RISC-V`, `FPGA`, `Security`
+- ⚽ Hobbies: `football`
+- 😄 Pronouns: `No 996, plz.`
 
-### Preferences
+### Github Stats
 [![iamywang's github stats](https://github-readme-stats.vercel.app/api?username=iamywang&count_private=true&show_icons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
+
+### Recently
+...
 
 <!--
 **iamywang/iamywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
