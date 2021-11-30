@@ -14,11 +14,11 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-92393%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 125 Contributions in the Year 2021
+> 🏆 123 Contributions in the Year 2021
  > 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
@@ -37,18 +37,6 @@
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 ```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       27 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
-Wednesday    17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
-Thursday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
-Saturday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Sunday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -62,29 +50,10 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-C                        6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/iamywang/iamywang/master/charts/bar_graph.png) 
 
 
  Last Updated on 30/11/2021
