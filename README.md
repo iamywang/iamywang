@@ -14,11 +14,11 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-415463%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-559188%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 136 Contributions in the Year 2021
+> 🏆 130 Contributions in the Year 2021
  > 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
