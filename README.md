@@ -14,8 +14,6 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2019%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-538%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -62,5 +60,5 @@ Windows                  4 hrs 56 mins       ███████████�
 ```
 
 
- Last Updated on 29/01/2022 15:18:51 UTC
+ Last Updated on 29/01/2022 16:22:51 UTC
 <!--END_SECTION:waka-->
