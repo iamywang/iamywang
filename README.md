@@ -14,7 +14,7 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-852%20Thousand%20lines%20of%20code-blue)
 
@@ -33,8 +33,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-🌆 Daytime    141 commits    ████████████░░░░░░░░░░░░░   50.0% 
+🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+🌆 Daytime    142 commits    ████████████░░░░░░░░░░░░░   50.35% 
 🌃 Evening    107 commits    █████████░░░░░░░░░░░░░░░░   37.94% 
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
@@ -64,5 +64,5 @@ Windows                  4 hrs 36 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 28/02/2022 05:18:12 UTC
+ Last Updated on 28/02/2022 07:18:49 UTC
 <!--END_SECTION:waka-->
