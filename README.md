@@ -14,13 +14,11 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2020%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 277 Contributions in the Year 2022
+> 🏆 294 Contributions in the Year 2022
  > 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
@@ -64,5 +62,5 @@ Windows                  2 hrs 25 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 30/03/2022 13:31:02 UTC
+ Last Updated on 30/03/2022 16:25:20 UTC
 <!--END_SECTION:waka-->
