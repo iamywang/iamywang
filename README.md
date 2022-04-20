@@ -14,7 +14,7 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-275%20Thousand%20lines%20of%20code-blue)
 
@@ -64,5 +64,5 @@ Linux                    15 hrs 27 mins      ███████████�
 ```
 
 
- Last Updated on 20/04/2022 04:49:49 UTC
+ Last Updated on 20/04/2022 06:25:09 UTC
 <!--END_SECTION:waka-->
