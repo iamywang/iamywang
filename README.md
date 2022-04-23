@@ -14,13 +14,13 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2032%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-275%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--49%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 304 Contributions in the Year 2022
+> 🏆 313 Contributions in the Year 2022
  > 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
@@ -28,15 +28,15 @@
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 13 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
-🌆 Daytime    179 commits    ████████████░░░░░░░░░░░░░   49.04% 
-🌃 Evening    123 commits    ████████░░░░░░░░░░░░░░░░░   33.7% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+🌞 Morning    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
+🌆 Daytime    163 commits    ████████████░░░░░░░░░░░░░   47.52% 
+🌃 Evening    114 commits    ████████░░░░░░░░░░░░░░░░░   33.24% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
 ```
 
@@ -64,5 +64,5 @@ Linux                    7 hrs 12 mins       ███████████�
 ```
 
 
- Last Updated on 22/04/2022 20:23:01 UTC
+ Last Updated on 23/04/2022 04:22:45 UTC
 <!--END_SECTION:waka-->
