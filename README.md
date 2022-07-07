@@ -14,9 +14,9 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2025%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--38%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,9 +33,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    68 commits     █████░░░░░░░░░░░░░░░░░░░░   22.3% 
-🌆 Daytime    155 commits    ████████████░░░░░░░░░░░░░   50.82% 
-🌃 Evening    79 commits     ██████░░░░░░░░░░░░░░░░░░░   25.9% 
+🌞 Morning    68 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+🌆 Daytime    156 commits    ████████████░░░░░░░░░░░░░   50.98% 
+🌃 Evening    79 commits     ██████░░░░░░░░░░░░░░░░░░░   25.82% 
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
 
 ```
@@ -63,5 +63,5 @@ Linux                    27 hrs 17 mins      ███████████�
 ```
 
 
- Last Updated on 07/07/2022 06:28:04 UTC
+ Last Updated on 07/07/2022 07:22:43 UTC
 <!--END_SECTION:waka-->
