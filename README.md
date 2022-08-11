@@ -20,8 +20,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 351 Contributions in the Year 2022
- > 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -58,5 +56,5 @@ Linux                    8 mins              ███████████�
 ```
 
 
- Last Updated on 11/08/2022 03:25:34 UTC
+ Last Updated on 11/08/2022 04:29:56 UTC
 <!--END_SECTION:waka-->
