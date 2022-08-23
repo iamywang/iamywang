@@ -14,7 +14,7 @@
 ### Work Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--37%20Thousand%20lines%20of%20code-blue)
 
@@ -47,17 +47,18 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.0% 
+Other                    8 mins              ████████████████░░░░░░░░░   64.79% 
+Python                   4 mins              ████████░░░░░░░░░░░░░░░░░   35.21% 
 TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  12 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+Linux                    12 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/08/2022 17:22:33 UTC
+ Last Updated on 23/08/2022 18:23:43 UTC
 <!--END_SECTION:waka-->
