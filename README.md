@@ -1,7 +1,7 @@
 ### Introduciton
 
 - 📚 Status:`Student working hard for PhD`
-- 🔎 Learning: `Meltdown and Spectre Attacks`, `Microarchitectural Side and Covert Channels`
+- 🔎 Learning: `Side Attacks (Processor, OS)`, `Computer System`
 - 🖥️ Languages: `C/C++`, `Java`, `Python`, `Vue.js`
 - ⚽ Like: `Football`, `Reading`
 
