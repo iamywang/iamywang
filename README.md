@@ -1,17 +1,26 @@
-### Introduciton
+## 关于我
 
-- 📚 Status:`Student working hard for PhD`
-- 🔎 Learning: `Side Attacks (Processor, OS)`, `Computer System`
-- 🖥️ Languages: `C/C++`, `Java`, `Python`, `Vue.js`
-- ⚽ Like: `Football`, `Reading`
+985院校研究生在读，研究方向为计算机体系结构及安全、侧信道安全。
 
-### Github Stats
+## 编程语言
+
+C/C++、Java、Kotlin、Python、Vue.js。
+
+## 爱好
+
+足球和读书。
+
+## 联系我
+
+- GitHub: https://github.com/iamywang
+- Email: bigyophswang@gmail.com
+- Telegram: https://t.me/heiheihaoda
+
+## Github数据统计
 
 [![iamywang's github stats](https://github-readme-stats.vercel.app/api?username=iamywang&count_private=true&show_icons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
-
-### Work Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%202%20mins-blue)
