@@ -25,11 +25,9 @@ C/C++、Java、Kotlin、Python、Vue.js。
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--64%20Thousand%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 388 Contributions in the Year 2022
+> 🏆 389 Contributions in the Year 2022
  > 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
@@ -42,9 +40,9 @@ C/C++、Java、Kotlin、Python、Vue.js。
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    53 commits     █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-🌆 Daytime    127 commits    █████████████░░░░░░░░░░░░   54.98% 
-🌃 Evening    51 commits     █████░░░░░░░░░░░░░░░░░░░░   22.08% 
+🌞 Morning    54 commits     █████░░░░░░░░░░░░░░░░░░░░   23.28% 
+🌆 Daytime    127 commits    █████████████░░░░░░░░░░░░   54.74% 
+🌃 Evening    51 commits     █████░░░░░░░░░░░░░░░░░░░░   21.98% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -75,5 +73,5 @@ klee                     24 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/09/2022 01:31:14 UTC
+ Last Updated on 04/09/2022 04:07:40 UTC
 <!--END_SECTION:waka-->
