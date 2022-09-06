@@ -23,7 +23,7 @@ C/C++、Java、Kotlin、Python、Vue.js。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2013%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -37,37 +37,6 @@ C/C++、Java、Kotlin、Python、Vue.js。
  > 
 > 🔑 10 Private Repositories  
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    55 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-🌆 Daytime    132 commits    █████████████░░░░░░░░░░░░   54.55% 
-🌃 Evening    55 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      4 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.71% 
-Markdown                 3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.99% 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-YAML                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-CMake                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.6%
-
-🔥 Editors: 
-VS Code                  11 hrs 4 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    11 hrs 4 mins       █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 06/09/2022 15:17:17 UTC
+ Last Updated on 06/09/2022 16:21:48 UTC
 <!--END_SECTION:waka-->
