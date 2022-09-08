@@ -27,8 +27,6 @@ C/C++、Java、Kotlin、Python、Vue.js。
 
 **🐱 My GitHub Data** 
 
-> 🏆 423 Contributions in the Year 2022
- > 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -69,5 +67,5 @@ Linux                    13 hrs 40 mins      ███████████�
 ```
 
 
- Last Updated on 08/09/2022 20:18:49 UTC
+ Last Updated on 08/09/2022 21:15:48 UTC
 <!--END_SECTION:waka-->
