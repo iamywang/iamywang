@@ -23,7 +23,7 @@ C/C++、Java、Kotlin、Python、Vue.js。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,18 +54,18 @@ C/C++、Java、Kotlin、Python、Vue.js。
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      3 hrs 32 mins       ██████████████████░░░░░░░   73.45% 
-Python                   1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   26.42% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+TeX                      2 hrs 41 mins       ████████████████████████░   97.32% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 48 mins       █████████████████████████   100.0%
+Linux                    2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/10/2022 16:22:57 UTC
+ Last Updated on 02/10/2022 17:24:29 UTC
 <!--END_SECTION:waka-->
