@@ -23,11 +23,11 @@ C/C++、Java、Kotlin、Python、Vue.js。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 494 Contributions in the Year 2022
+> 🏆 495 Contributions in the Year 2022
  > 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
@@ -35,7 +35,7 @@ C/C++、Java、Kotlin、Python、Vue.js。
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 13 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -69,5 +69,5 @@ Linux                    16 hrs 32 mins      ███████████�
 ```
 
 
- Last Updated on 26/10/2022 01:24:52 UTC
+ Last Updated on 26/10/2022 03:48:54 UTC
 <!--END_SECTION:waka-->
