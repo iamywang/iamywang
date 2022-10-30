@@ -23,11 +23,11 @@ C/C++、Java、Kotlin、Python、Vue.js。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 521 Contributions in the Year 2022
+> 🏆 522 Contributions in the Year 2022
  > 
 > 📦 6.8 MB Used in GitHub's Storage 
  > 
@@ -40,9 +40,9 @@ C/C++、Java、Kotlin、Python、Vue.js。
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    62 commits     █████░░░░░░░░░░░░░░░░░░░░   22.79% 
-🌆 Daytime    155 commits    ██████████████░░░░░░░░░░░   56.99% 
-🌃 Evening    55 commits     █████░░░░░░░░░░░░░░░░░░░░   20.22% 
+🌞 Morning    62 commits     █████░░░░░░░░░░░░░░░░░░░░   22.71% 
+🌆 Daytime    155 commits    ██████████████░░░░░░░░░░░   56.78% 
+🌃 Evening    56 commits     █████░░░░░░░░░░░░░░░░░░░░   20.51% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -69,5 +69,5 @@ Linux                    31 hrs 14 mins      ███████████�
 ```
 
 
- Last Updated on 30/10/2022 13:31:28 UTC
+ Last Updated on 30/10/2022 14:14:40 UTC
 <!--END_SECTION:waka-->
