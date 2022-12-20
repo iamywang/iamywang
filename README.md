@@ -23,7 +23,7 @@ C/C++、Java、Kotlin、Python、Vue.js。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2015%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,5 +68,5 @@ WSL                      1 hr 31 mins        ███████████�
 ```
 
 
- Last Updated on 20/12/2022 05:12:59 UTC
+ Last Updated on 20/12/2022 06:18:27 UTC
 <!--END_SECTION:waka-->
