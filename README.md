@@ -23,26 +23,12 @@ C/C++、Java、Kotlin、Python、Vue.js。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamywang&layout=compact)]()
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2024%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.6 MB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                96 commits          █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-🌆 Daytime                248 commits         █████████████░░░░░░░░░░░░   53.56 % 
-🌃 Evening                118 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌞 Morning                96 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌆 Daytime                249 commits         █████████████░░░░░░░░░░░░   53.66 % 
+🌃 Evening                118 commits         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
@@ -50,8 +36,6 @@ C/C++、Java、Kotlin、Python、Vue.js。
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 TeX                      8 hrs 36 mins       ██████████████████░░░░░░░   72.28 % 
 Python                   2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
@@ -67,5 +51,5 @@ Linux                    11 hrs 54 mins      ███████████�
 ```
 
 
- Last Updated on 08/03/2023 04:24:24 UTC
+ Last Updated on 08/03/2023 08:25:44 UTC
 <!--END_SECTION:waka-->
