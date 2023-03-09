@@ -3,7 +3,7 @@
 - 985院校研究生在读，研究方向为计算机体系结构及安全、侧信道安全。
 - 爱好足球和读书。
 
-![](https://github-readme-stats.vercel.app/api?username=iamywang&theme=swift&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=iamywang&theme=swift&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
