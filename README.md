@@ -1,20 +1,28 @@
 ## 关于我
 
-985院校研究生在读，研究方向为计算机体系结构及安全、侧信道安全。
+- 985院校研究生在读，研究方向为计算机体系结构及安全、侧信道安全。
+- 爱好足球和读书。
 
-## 编程语言
+## 科研成果
 
-C/C++、Java、Kotlin、Python、Vue.js。
+暂无
 
-## 爱好
+## 部分项目
 
-足球和读书。
+1. 一个基于图数据结构和Qt5的校园导游系统（2019）：https://github.com/iamywang/Campus-Guide-System
+
+2. 一个基于mpvue的无人机新闻微信小程序（2019）：https://github.com/iamywang/UAV-News
+
+3. 一个基于高德地图API的社交App（2019）：https://github.com/iamywang/Dating-Android
+
+4. 一个利用C++标准库中bitset实现的Cache模拟器（2019）：https://github.com/iamywang/Cache-Simulator
+
+5. 一个C++实现的PL/0语言编译器（2019）：https://github.com/iamywang/compiler-pl0
 
 ## 联系我
 
 - GitHub: https://github.com/iamywang
 - Email: bigyophswang@gmail.com
-- Telegram: https://t.me/heiheihaoda
 
 ## Github数据统计
 
