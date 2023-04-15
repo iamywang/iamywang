@@ -3,6 +3,12 @@
 - 985院校研究生在读，研究方向为计算机体系结构及安全、侧信道安全。
 - 爱好足球和读书。
 
+## 联系方式
+
+- GitHub: https://github.com/iamywang
+- Email: wangquancheng@whu.edu.cn, wangquancheng@mail.sdu.edu.cn
+- 谷歌学术: https://scholar.google.com/citations?user=D1O2EssAAAAJ&hl=en
+
 ![](https://github-readme-stats.vercel.app/api?username=iamywang&theme=buefy&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
 <!--START_SECTION:waka-->
@@ -39,7 +45,7 @@ Linux                    28 hrs 9 mins       ███████████�
 
 ## 科研成果
 
-暂无。
+1. Wang, Q., Tang, M., & Fu, J. (2023). EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. arXiv preprint arXiv:2303.03700.
 
 ## 漏洞挖掘
 
