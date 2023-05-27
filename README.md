@@ -46,11 +46,9 @@ Windows                  0 secs              ░░░░░░░░░░░�
 
 ## 科研成果
 
-1. Wang, Q., Tang, M., & Fu, J. (2023). EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. arXiv preprint arXiv:2303.03700.
+1. Wang, Q., Tang, M., & Fu, J. (2023). EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *arXiv preprint arXiv:2303.03700.*
 
-## 漏洞挖掘
-
-1. Android操作系统中Linux系统调用存在侧信道泄漏漏洞：https://issuetracker.google.com/issues/271963259
+2. Wang, Q., Tang, M., Wang, H., & Gu, Y. (2023). BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions. *arXiv preprint arXiv:2304.10268.*
 
 ## 部分项目
 
