@@ -44,11 +44,17 @@ Windows                  0 secs              ░░░░░░░░░░░�
  Last Updated on 22/06/2023 01:43:23 UTC
 <!--END_SECTION:waka-->
 
-## 科研成果
+## 正式发表论文
 
-1. Wang, Q., Tang, M., & Fu, J. (2023). EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *arXiv preprint arXiv:2303.03700.*
+暂无
 
-2. Wang, Q., Tang, M., Wang, H., & Gu, Y. (2023). BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions. *arXiv preprint arXiv:2304.10268.*
+## 预印本论文
+
+[1] Wang, H., Tang, M., Xu, K., & **Wang, Q.** (2023). BandwidthBreach: Unleashing Covert and Side Channels through Cache Bandwidth Exploitation (arXiv:2306.01996). arXiv. http://arxiv.org/abs/2306.01996
+
+[2] **Wang, Q.**, Zhang, X., Wang, H., Gu, Y., & Tang, M. (2023). BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions (arXiv:2304.10268). arXiv. http://arxiv.org/abs/2304.10268
+
+[3] **Wang, Q.**, Tang, M., & Fu, J. (2023). EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones (arXiv:2303.03700). arXiv. http://arxiv.org/abs/2303.03700
 
 ## 部分项目
 
