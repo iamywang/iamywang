@@ -10,6 +10,8 @@
 - GitHub: https://github.com/iamywang
 - Email: wangquancheng@whu.edu.cn, wangquancheng@mail.sdu.edu.cn
 - 谷歌学术: https://scholar.google.com/citations?user=D1O2EssAAAAJ&hl=en
+- ORCID: https://orcid.org/0000-0002-0313-1853
+- Web of Science: https://www.webofscience.com/wos/author/record/ITT-2810-2023
 
 ## RESEARCH
 
