@@ -17,7 +17,7 @@
 
 ### Peer-Reviewed
 
-[1] **Quancheng Wang**, Ming Tang and Jianming Fu. "EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones". In IEEE Internet of Things Journal, 2023. [[arXiv](https://arxiv.org/pdf/2303.03700.pdf)]
+[1] **Quancheng Wang**, Ming Tang and Jianming Fu. "EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones". In IEEE Internet of Things Journal, 2023. [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf)]
 
 ### Preprint (Under Review)
 
