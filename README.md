@@ -64,16 +64,15 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      43 mins             █████████████████████████   99.98 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/08/2023 01:09:04 UTC
+ Last Updated on 27/08/2023 01:15:27 UTC
 <!--END_SECTION:waka-->
