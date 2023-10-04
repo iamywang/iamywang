@@ -19,6 +19,8 @@
 
 [1] **Quancheng Wang**, Ming Tang and Jianming Fu. "EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones". In IEEE Internet of Things Journal, 2023. [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf)]
 
+[2] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang and Haili Ding. "One more set: Mitigating conflict-based cache side-channel attacks by extending cache set". In Journal of Systems Architecture, 2023: 102997. [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+
 ### Preprint (Under Review)
 
 [1] Ke Xu, Ming Tang, **Quancheng Wang** and Han Wang. "New Covert and Side Channels Based on Retirement". Preprint on arXiv, 2023. [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
