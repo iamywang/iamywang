@@ -17,17 +17,17 @@
 
 ### Peer-Reviewed
 
-[1] **Quancheng Wang**, Ming Tang and Jianming Fu. "EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones". In IEEE Internet of Things Journal, 2023. [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf)]
+[1] **Quancheng Wang**, Ming Tang and Jianming Fu. "EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones". In IEEE Internet of Things Journal, 2023. [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf), [online](http://dx.doi.org/10.1109/JIOT.2023.3298992)]
 
-[2] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang and Haili Ding. "One more set: Mitigating conflict-based cache side-channel attacks by extending cache set". In Journal of Systems Architecture, 2023: 102997. [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+[2] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang and Haili Ding. "One More Set: Mitigating Conflict-Based Cache Side-Channel Attacks by Extending Cache Set". In Journal of Systems Architecture, 2023: 102997. [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
 
 ### Preprint (Under Review)
 
-[1] Ke Xu, Ming Tang, **Quancheng Wang** and Han Wang. "New Covert and Side Channels Based on Retirement". Preprint on arXiv, 2023. [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
+[1] **Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu and Ming Tang. "BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2304.10268.pdf)]
 
-[2] Han Wang, Ming Tang, Ke Xu and **Quancheng Wang**. "BandwidthBreach: Unleashing Covert and Side Channels through Cache Bandwidth Exploitation". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
+[2] Ke Xu, Ming Tang, **Quancheng Wang** and Han Wang. "New Covert and Side Channels Based on Retirement". Preprint on arXiv, 2023. [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
 
-[3] **Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu and Ming Tang. "BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2304.10268.pdf)]
+[3] Han Wang, Ming Tang, Ke Xu and **Quancheng Wang**. "BandwidthBreach: Unleashing Covert and Side Channels through Cache Bandwidth Exploitation". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
 
 ### Reviewer
 
