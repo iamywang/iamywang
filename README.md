@@ -1,11 +1,12 @@
-## ABOUT ME
+## 关于我
 
 - 985院校研究生在读，研究方向为计算机体系结构及安全、侧信道安全。
 - 爱好足球和读书。
 
 ![](https://github-readme-stats-iamywang.vercel.app/api?username=iamywang&theme=buefy&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
-## CONTACT ME
+
+## 联系方式
 
 - GitHub: https://github.com/iamywang
 - Email: wangquancheng@whu.edu.cn, wangquancheng@mail.sdu.edu.cn
@@ -13,27 +14,28 @@
 - ORCID: https://orcid.org/0000-0002-0313-1853
 - Web of Science: https://www.webofscience.com/wos/author/record/ITT-2810-2023
 
-## RESEARCH
+## 科研经历
 
-### Peer-Reviewed
+### 发表论文
+[1] **Quancheng Wang**, Ming Tang, Ke Xu and Han Wang. "Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities". In 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024. [Accepted]
 
-[1] **Quancheng Wang**, Ming Tang and Jianming Fu. "EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones". In IEEE Internet of Things Journal, 2023. [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf), [online](http://dx.doi.org/10.1109/JIOT.2023.3298992)]
+[2] **Quancheng Wang**, Ming Tang and Jianming Fu. "EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones". In IEEE Internet of Things Journal, 2023. [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf), [online](http://dx.doi.org/10.1109/JIOT.2023.3298992)]
 
-[2] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang and Haili Ding. "One More Set: Mitigating Conflict-Based Cache Side-Channel Attacks by Extending Cache Set". In Journal of Systems Architecture, 2023: 102997. [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+[3] Ke Xu, Ming Tang, **Quancheng Wang** and Han Wang. "Exploitation of Security Vulnerability on Retirement". In 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024. [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
 
-### Preprint (Under Review)
+[4] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang and Haili Ding. "One More Set: Mitigating Conflict-Based Cache Side-Channel Attacks by Extending Cache Set". In Journal of Systems Architecture, 2023: 102997. [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+
+### 预印本
 
 [1] **Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu and Ming Tang. "BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2304.10268.pdf)]
 
-[2] Ke Xu, Ming Tang, **Quancheng Wang** and Han Wang. "New Covert and Side Channels Based on Retirement". Preprint on arXiv, 2023. [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
-
 [3] Han Wang, Ming Tang, Ke Xu and **Quancheng Wang**. "BandwidthBreach: Unleashing Covert and Side Channels through Cache Bandwidth Exploitation". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
 
-### Reviewer
+### 审稿人
 
 [1] IEEE Internet of Things Journal, 2023.
 
-## PROJECTS
+## 项目经历
 
 [1] 一个基于KLEE符号执行与Qt5的侧信道漏洞检测和修复平台（2022，负责KLEE和客户端开发）
 
@@ -49,7 +51,7 @@
 
 [7] 一个C++实现的PL/0语言编译器（2019）：https://github.com/iamywang/compiler-pl0
 
-## CODE STATS
+## 代码统计
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
