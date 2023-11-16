@@ -23,13 +23,13 @@
 
 [3] Ke Xu, Ming Tang, **Quancheng Wang** and Han Wang. "Exploitation of Security Vulnerability on Retirement". In 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024. [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
 
-[4] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang and Haili Ding. "One More Set: Mitigating Conflict-Based Cache Side-Channel Attacks by Extending Cache Set". In Journal of Systems Architecture, 2023: 102997. [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+[4] Han Wang, Ming Tang, Ke Xu and **Quancheng Wang**. "Cache Bandwidth Contention Leaks Secrets". In 2024 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024. [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
+
+[5] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang and Haili Ding. "One More Set: Mitigating Conflict-Based Cache Side-Channel Attacks by Extending Cache Set". In Journal of Systems Architecture, 2023: 102997. [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
 
 ### 预印本
 
 [1] **Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu and Ming Tang. "BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2304.10268.pdf)]
-
-[3] Han Wang, Ming Tang, Ke Xu and **Quancheng Wang**. "BandwidthBreach: Unleashing Covert and Side Channels through Cache Bandwidth Exploitation". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
 
 ### 审稿人
 
