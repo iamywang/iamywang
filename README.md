@@ -1,6 +1,6 @@
 ## 关于我
 
-- 985院校研究生在读，研究方向为计算机体系结构及安全、侧信道安全。
+- 985院校研究生在读，研究方向为计算机体系结构安全、处理器微架构安全、侧信道攻击与防御。
 - 爱好足球和读书。
 
 ![](https://github-readme-stats-iamywang.vercel.app/api?username=iamywang&theme=buefy&count_private=true&show_icons=true&hide_border=true&hide_title=true)
@@ -14,26 +14,32 @@
 - ORCID: https://orcid.org/0000-0002-0313-1853
 - Web of Science: https://www.webofscience.com/wos/author/record/ITT-2810-2023
 
-## 科研经历
+## 科研成果
 
-### 发表论文
-[1] **Quancheng Wang**, Ming Tang, Ke Xu and Han Wang. "Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities". In 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024. [Accepted]
+[1] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [Accepted, [Artifact](https://github.com/iamywang/bp-security-framework)]
+**（CCF-A类会议，体系结构四大顶会，录用率 = 75/410 = 18.3%）**
 
-[2] **Quancheng Wang**, Ming Tang and Jianming Fu. "EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones". In IEEE Internet of Things Journal, 2023. [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf), [online](http://dx.doi.org/10.1109/JIOT.2023.3298992)]
+[2] **Quancheng Wang**, Ming Tang, Jianming Fu. EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *IEEE Internet of Things Journal (IoT-J), 2024.* [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf), [online](http://dx.doi.org/10.1109/JIOT.2023.3298992)]
+**（CCF-C类期刊，SCI一区Top，影响因子 = 10.6）**
 
-[3] Ke Xu, Ming Tang, **Quancheng Wang** and Han Wang. "Exploitation of Security Vulnerability on Retirement". In 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024. [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
+[3] **Quancheng Wang**, Ming Tang. Survey of Attack Techniques for Microarchitecture Security Vulnerabilities. *Journal of Cryptologic Research (in Chinese), 2024.* [Accepted]
+**（CCF-T2类期刊，CSCD核心/北大核心期刊）**
 
-[4] Han Wang, Ming Tang, Ke Xu and **Quancheng Wang**. "Cache Bandwidth Contention Leaks Secrets". In 2024 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024. [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
+[4] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Exploitation of Security Vulnerability on Retirement. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
+**（CCF-A类会议，体系结构四大顶会，录用率 = 75/410 = 18.3%）**
 
-[5] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang and Haili Ding. "One More Set: Mitigating Conflict-Based Cache Side-Channel Attacks by Extending Cache Set". In Journal of Systems Architecture, 2023: 102997. [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+[5] Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**. Cache Bandwidth Contention Leaks Secrets. *2024 Design, Automation & Test in Europe Conference & Exhibition (DATE'24), March 25-27, 2024, Valencia, Spain.* [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
+**（CCF-B类会议，录用率 = 244/996 = 24.5%）**
 
-### 预印本
+[6] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding. One more set: Mitigating conflict-based cache side-channel attacks by extending cache set. *Journal of Systems Architecture (JSA), 2023.* [[online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+**（CCF-B类期刊，SCI二区，影响因子 = 4.5）**
 
-[1] **Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu and Ming Tang. "BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions". Preprint on arXiv, 2023. [[arXiv](http://arxiv.org/pdf/2304.10268.pdf)]
+## 学术服务
 
-### 审稿人
+[1] Reviewer: IEEE Internet of Things Journal, since Jul 2023.
 
-[1] IEEE Internet of Things Journal, 2023.
+[2] Graduate Student Member: Institute of Electrical and Electronics Engineers (IEEE), since Jan 2024.
+
 
 ## 项目经历
 
