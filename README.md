@@ -16,10 +16,10 @@
 
 ## 科研成果
 
-[1] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [Accepted, [Artifact](https://github.com/iamywang/bp-security-framework)]
+[1] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [[PDF](https://iamywang.github.io/pubs/wang24hpca.pdf), [Artifact](https://github.com/iamywang/bp-security-framework)]
 **（CCF-A类会议，体系结构四大顶会，录用率 = 75/410 = 18.3%）**
 
-[2] **Quancheng Wang**, Ming Tang, Jianming Fu. EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *IEEE Internet of Things Journal (IoT-J), 2024.* [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/iot23.pdf), [online](http://dx.doi.org/10.1109/JIOT.2023.3298992)]
+[2] **Quancheng Wang**, Ming Tang, Jianming Fu. EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *IEEE Internet of Things Journal (IoT-J), 2024.* [[arXiv](https://arxiv.org/pdf/2303.03700.pdf), [PDF](https://iamywang.github.io/pubs/wang23iotj.pdf), [online](http://dx.doi.org/10.1109/JIOT.2023.3298992)]
 **（CCF-C类期刊，SCI一区Top，影响因子 = 10.6）**
 
 [3] **Quancheng Wang**, Ming Tang. Survey of Attack Techniques for Microarchitecture Security Vulnerabilities. *Journal of Cryptologic Research (in Chinese), 2024.* [Accepted]
