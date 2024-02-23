@@ -74,15 +74,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      1 hr 5 mins         █████████████████████████   99.71 % 
+OpenEdge ABL             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/02/2024 01:12:09 UTC
+ Last Updated on 23/02/2024 01:11:09 UTC
 <!--END_SECTION:waka-->
