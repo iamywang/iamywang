@@ -18,27 +18,21 @@
 ## 科研成果
 
 [1] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.*
-
 [[PDF](https://iamywang.github.io/pubs/wang24hpca.pdf)], [[Online](http://dx.doi.org/10.1109/HPCA57654.2024.00038)], [[Artifact](https://github.com/iamywang/bp-security-framework)], [[Slides](https://iamywang.github.io/pubs/wang24hpca-slides.pdf)], [[Poster](https://iamywang.github.io/pubs/wang24hpca-poster.pdf)]
 
 [2] **Quancheng Wang**, Ming Tang, Jianming Fu. EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *IEEE Internet of Things Journal (IoT-J), February, 2024.*
-
 [[arXiv](https://arxiv.org/pdf/2303.03700.pdf)], [[PDF](https://iamywang.github.io/pubs/wang23iotj.pdf)], [[Online](http://dx.doi.org/10.1109/JIOT.2023.3298992)]
 
 [3] **Quancheng Wang**, Ming Tang. 微架构安全漏洞攻击技术综述. *密码学报, 2024.*
-
 [Accepted]
 
 [4] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Exploitation of Security Vulnerability on Retirement. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.*
-
 [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)]
 
 [5] Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**. Cache Bandwidth Contention Leaks Secrets. *2024 Design, Automation & Test in Europe Conference & Exhibition (DATE'24), March 25-27, 2024, Valencia, Spain.*
-
 [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
 
 [6] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding. One more set: Mitigating conflict-based cache side-channel attacks by extending cache set. *Journal of Systems Architecture (JSA), 2023.*
-
 [[Online](https://doi.org/10.1016/j.sysarc.2023.102997)]
 
 ## 学术服务
