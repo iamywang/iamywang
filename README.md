@@ -2,7 +2,8 @@
 
 - 985院校研究生在读，研究方向为计算机体系结构安全、处理器微架构安全、侧信道攻击与防御；
 - 爱好足球⚽和读书📖；
-- 最近正在读：Arsène Wenger, *My Life in Red and White*（阿尔塞纳-温格，《我的红白人生》）。
+- 最近正在读：Arsène Wenger, *My Life in Red and White*（阿尔塞纳-温格，《我的红白人生》）；
+- 预期毕业时间：2026年6月，希望寻求一些工业界的工作机会，简历请见[这里](https:/iamywang.github.io/resume/wang-cv.pdf)。
 
 ![](https://github-readme-stats-iamywang.vercel.app/api?username=iamywang&theme=buefy&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
