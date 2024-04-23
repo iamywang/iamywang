@@ -30,13 +30,15 @@
 
 3. [密码学报, CCF-T2] **Quancheng Wang**, Ming Tang. 微架构安全漏洞攻击技术综述. *密码学报, 2024.* [Accepted]
 
+4. [Preprint] **Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu, Ming Tang. BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions. *Computing Research Repository, Arxiv, 2024.* [[arXiv](https://arxiv.org/pdf/2304.10268.pdf)]
+
 合作作者：
 
-4. [HPCA'24, CCF-A] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Exploitation of Security Vulnerability on Retirement. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [[arXiv](https://arxiv.org/pdf/2307.12486.pdf), [Online](http://dx.doi.org/10.1109/HPCA57654.2024.00012)]
+5. [HPCA'24, CCF-A] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Exploitation of Security Vulnerability on Retirement. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)], [[Online](http://dx.doi.org/10.1109/HPCA57654.2024.00012)]
 
-5. [DATE'24, CCF-B] Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**. Cache Bandwidth Contention Leaks Secrets. *2024 Design, Automation & Test in Europe Conference & Exhibition (DATE'24), March 25-27, 2024, Valencia, Spain.* [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
+6. [DATE'24, CCF-B] Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**. Cache Bandwidth Contention Leaks Secrets. *2024 Design, Automation & Test in Europe Conference & Exhibition (DATE'24), March 25-27, 2024, Valencia, Spain.* [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)]
 
-6. [JSA, CCF-B] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding. One more set: Mitigating conflict-based cache side-channel attacks by extending cache set. *Journal of Systems Architecture (JSA), 2023.* [[Online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+7. [JSA, CCF-B] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding. One more set: Mitigating conflict-based cache side-channel attacks by extending cache set. *Journal of Systems Architecture (JSA), 2023.* [[Online](https://doi.org/10.1016/j.sysarc.2023.102997)]
 
 ## 学术服务
 
