@@ -79,17 +79,15 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 38 mins       █████████████████████████   98.57 % 
-BibTeX                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/08/2024 01:27:44 UTC
+ Last Updated on 10/08/2024 01:27:24 UTC
 <!--END_SECTION:waka-->
