@@ -25,11 +25,11 @@
 
 [1] [HPCA'24, CCF-A] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [[PDF](https://iamywang.github.io/pubs/wang24hpca.pdf)], [[Online](https://doi.org/10.1109/HPCA57654.2024.00038)], [[Artifact](https://github.com/iamywang/bp-security-framework)], [[Slides](https://iamywang.github.io/pubs/wang24hpca-slides.pdf)], [[Poster](https://iamywang.github.io/pubs/wang24hpca-poster.pdf)]
 
-[2] [TACO, CCF-A] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology. *ACM Transactions on Architecture and Code Optimization (TACO).* [Just Accepted]
+[2] [TACO, CCF-A] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology. *ACM Transactions on Architecture and Code Optimization (TACO).* [[Online](https://doi.org/10.1145/3711923)]
 
 [3] [IoT-J, SCI一区] **Quancheng Wang**, Ming Tang, Jianming Fu. EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *IEEE Internet of Things Journal (IoT-J), February, 2024.* [[arXiv](https://arxiv.org/pdf/2303.03700.pdf)], [[PDF](https://iamywang.github.io/pubs/wang23iotj.pdf)], [[Online](https://doi.org/10.1109/JIOT.2023.3298992)]
 
-[4] [密码学报, CCF-T2] **Quancheng Wang**, Ming Tang. 微架构安全漏洞攻击技术综述. *密码学报.* [Just Accepted]
+[4] [密码学报, CCF-T2] **Quancheng Wang**, Ming Tang. 微架构安全漏洞攻击技术综述. *密码学报.* [[Online](https://doi.org/10.13868/j.cnki.jcr.000730)]
 
 [5] [发明专利, Under Review] Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu. 基于备份缓存的一级数据缓存侧信道攻击防御方法及系统 (CN202311693095.5). [[Online](http://epub.cnipa.gov.cn/patent/CN117807588A)]
 
@@ -37,7 +37,7 @@
 
 合作作者：
 
-[7] [TC, CCF-A] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors. *IEEE Transactions on Computers (TC).* [Just Accepted]
+[7] [TC, CCF-A] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors. *IEEE Transactions on Computers (TC).* [[Online](https://doi.org/10.1109/TC.2024.3521225)]
 
 [8] [HPCA'24, CCF-A] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Exploitation of Security Vulnerability on Retirement. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)], [[Online](https://doi.org/10.1109/HPCA57654.2024.00012)]
 
