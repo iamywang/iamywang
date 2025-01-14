@@ -29,7 +29,7 @@
 
 [3] [IoT-J, SCI一区] **Quancheng Wang**, Ming Tang, Jianming Fu. EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *IEEE Internet of Things Journal (IoT-J), February, 2024.* [[arXiv](https://arxiv.org/pdf/2303.03700.pdf)], [[PDF](https://iamywang.github.io/pubs/wang23iotj.pdf)], [[Online](https://doi.org/10.1109/JIOT.2023.3298992)]
 
-[4] [密码学报, CCF-T2] **Quancheng Wang**, Ming Tang. 微架构安全漏洞攻击技术综述. *密码学报.* [[Online](https://doi.org/10.13868/j.cnki.jcr.000730)]
+[4] [密码学报, CCF-T2] **Quancheng Wang**, Ming Tang. 微架构安全漏洞攻击技术综述. *密码学报, December, 2024.* [[Online](https://doi.org/10.13868/j.cnki.jcr.000730)]
 
 [5] [发明专利, Under Review] Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu. 基于备份缓存的一级数据缓存侧信道攻击防御方法及系统 (CN202311693095.5). [[Online](http://epub.cnipa.gov.cn/patent/CN117807588A)]
 
