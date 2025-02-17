@@ -1,73 +1,105 @@
-## 关于我
+# Quancheng Wang
 
-- 985院校研究生在读，研究方向为计算机体系结构安全、处理器微架构安全、侧信道攻击与防御；
-- 爱好足球⚽和读书📖；
-- 最近正在阅读：
-  - 尤瓦尔-赫拉利，《人类简史》；
-  - 孙立天，《康熙的红票》；
-- 预期毕业时间：2026年6月，希望寻求一些工业界的工作机会，学术成果见下文。
+Ph.D. Candidate,\
+School of Cyber Science and Engineering,\
+Wuhan University, China
+
+[[**Email**](wangquancheng@whu.edu.cn)], [[**GitHub**](https://github.com/iamywang)], [[**Google Scholar**](https://scholar.google.com/citations?user=KhWFO6sAAAAJ&hl=en)], [[**DBLP**](https://dblp.org/pid/342/2802.html)], [[**ORCID**](https://orcid.org/0000-0002-0313-1853)], [[**WoS**](https://www.webofscience.com/wos/author/record/ITT-2810-2023)], [[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=58151310700)]
 
 ![](https://github-readme-stats-iamywang.vercel.app/api?username=iamywang&theme=buefy&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
-## 联系方式
+## Biography
 
-- GitHub: <https://github.com/iamywang>
-- Email: <wangquancheng@whu.edu.cn>, <wangquancheng@mail.sdu.edu.cn>
-- 谷歌学术: <https://scholar.google.com/citations?user=KhWFO6sAAAAJ&hl=en>
-- DBLP: <https://dblp.org/pid/342/2802.html>
-- ORCID: <https://orcid.org/0000-0002-0313-1853>
-- Web of Science: <https://www.webofscience.com/wos/author/record/ITT-2810-2023>
-- Elsevier Scopus: <https://www.scopus.com/authid/detail.uri?authorId=58151310700>
+I am currently a second-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/1104/1798.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for IEEE IoT-J and Springer IJIS.
 
-## 学术成果
+## News
 
-第一作者：
+- **[2025.01]** Our paper "[Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology](https://doi.org/10.1145/3711923)" has been accepted to **ACM TACO**.
+- **[2023.12]** Our paper "[Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)](https://doi.org/10.13868/j.cnki.jcr.000730)" has been accepted to **Journal of Cryptologic Research (密码学报 in Chinese)**.
+- **[2023.10]** Our paper "[Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities](https://doi.org/10.1109/HPCA57654.2024.00038)" has been accepted to **HPCA 2024**.
+- **[2023.07]** Our paper "[EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones](https://doi.org/10.1109/JIOT.2023.3298992)" has been accepted to **IEEE IoT-J**.
 
-[1] [HPCA'24, CCF-A] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [[PDF](https://iamywang.github.io/pubs/wang24hpca.pdf)], [[Online](https://doi.org/10.1109/HPCA57654.2024.00038)], [[Artifact](https://github.com/iamywang/bp-security-framework)], [[Slides](https://iamywang.github.io/pubs/wang24hpca-slides.pdf)], [[Poster](https://iamywang.github.io/pubs/wang24hpca-poster.pdf)]
+## Publications
 
-[2] [TACO, CCF-A] **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang. Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology. *ACM Transactions on Architecture and Code Optimization (TACO).* [[Online](https://doi.org/10.1145/3711923)]
+### (Co-) First Author
 
-[3] [IoT-J, SCI一区] **Quancheng Wang**, Ming Tang, Jianming Fu. EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones. *IEEE Internet of Things Journal (IoT-J), February, 2024.* [[arXiv](https://arxiv.org/pdf/2303.03700.pdf)], [[PDF](https://iamywang.github.io/pubs/wang23iotj.pdf)], [[Online](https://doi.org/10.1109/JIOT.2023.3298992)]
+**Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
+**Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology**\
+[TACO, CCF-A, JCR Q2] ACM Transactions on Architecture and Code Optimization (TACO), 2025.\
+[[Paper](https://doi.org/10.1145/3711923)]
 
-[4] [密码学报, CCF-T2] **Quancheng Wang**, Ming Tang. 微架构安全漏洞攻击技术综述. *密码学报, December, 2024.* [[Online](https://doi.org/10.13868/j.cnki.jcr.000730)]
+**Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
+**Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities**\
+[HPCA, CCF-A, CORE A*] 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024.\
+[[Paper](https://doi.org/10.1109/HPCA57654.2024.00038)], [[Preprint](https://iamywang.github.io/pubs/wang24hpca.pdf)], [[Code](https://github.com/iamywang/bp-security-framework)], [[Slides](https://iamywang.github.io/pubs/wang24hpca-slides.pdf)], [[Poster](https://iamywang.github.io/pubs/wang24hpca-poster.pdf)]
 
-[5] [发明专利, Under Review] Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu. 基于备份缓存的一级数据缓存侧信道攻击防御方法及系统 (CN202311693095.5). [[Online](http://epub.cnipa.gov.cn/patent/CN117807588A)]
+**Quancheng Wang**, Ming Tang, Jianming Fu\
+**EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones**\
+[IoT-J, CCF-C, JCR Q1] IEEE Internet of Things Journal (IoT-J), 2024.\
+[[Paper](https://doi.org/10.1109/JIOT.2023.3298992)], [[Preprint](https://iamywang.github.io/pubs/wang23iotj.pdf)], [[Code](https://github.com/iamywang/EavesDroid)]
 
-[6] [Preprint] **Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu, Ming Tang. BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions. *CoRR, abs/arXiv:2304.10268, 2024.* [[arXiv](https://arxiv.org/pdf/2304.10268.pdf)]
+**Quancheng Wang**, Ming Tang\
+**Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)**\
+[JCR, CCF-T2] Journal of Cryptologic Research (密码学报 in Chinese), 2024.\
+[[Paper](https://doi.org/10.13868/j.cnki.jcr.000730)]
 
-合作作者：
+### Co-author
 
-[7] [TC, CCF-A] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors. *IEEE Transactions on Computers (TC).* [[Online](https://doi.org/10.1109/TC.2024.3521225)]
+Han Wang, Ming Tang, **Quancheng Wang**, Ke Xu, Yinqian Zhang\
+**ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors**\
+[DAC, CCF-A, CORE A] 2025 Design Automation Conference (DAC), 2025.\
+[Accepted], [[AMD SB](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7032.html)]
 
-[8] [HPCA'24, CCF-A] Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang. Exploitation of Security Vulnerability on Retirement. *2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA'24), March 2-6, 2024, Edinburgh, UK.* [[arXiv](https://arxiv.org/pdf/2307.12486.pdf)], [[Online](https://doi.org/10.1109/HPCA57654.2024.00012)]
+Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
+**Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors**\
+[TC, CCF-A, JCR Q2] IEEE Transactions on Computers (TC), 2024.\
+[[Paper](https://doi.org/10.1109/TC.2024.3521225)]
 
-[9] [DATE'24, CCF-B] Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**. Cache Bandwidth Contention Leaks Secrets. *2024 Design, Automation & Test in Europe Conference & Exhibition (DATE'24), March 25-27, 2024, Valencia, Spain.* [[arXiv](http://arxiv.org/pdf/2306.01996.pdf)], [[Online](https://doi.org/10.23919/DATE58400.2024.10546529)]
+Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
+**Exploitation of Security Vulnerability on Retirement**\
+[HPCA, CCF-A, CORE A*] 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024.\
+[[Paper](https://doi.org/10.1109/HPCA57654.2024.00012)], [[Preprint](https://arxiv.org/pdf/2307.12486.pdf)]
 
-[10] [JSA, CCF-B] Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding. One more set: Mitigating conflict-based cache side-channel attacks by extending cache set. *Journal of Systems Architecture (JSA), November, 2023.* [[Online](https://doi.org/10.1016/j.sysarc.2023.102997)]
+Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**\
+**Cache Bandwidth Contention Leaks Secrets**\
+[DATE, CCF-B, CORE B] 2024 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024.\
+[[Paper](https://doi.org/10.23919/DATE58400.2024.10546529)], [[Preprint](https://arxiv.org/pdf/2306.01996.pdf)]
 
-## 学术服务
+Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
+**One more set: Mitigating conflict-based cache side-channel attacks by extending cache set**\
+[JSA, CCF-B, JCR Q1] Journal of Systems Architecture (JSA), 2023.\
+[[Paper](https://doi.org/10.1016/j.sysarc.2023.102997)]
 
-- Reviewer: IEEE Internet of Things Journal, since Jul 2023.
+### Under Review
 
-- Graduate Student Member: Institute of Electrical and Electronics Engineers (IEEE), since Jan 2024.
+**Quancheng Wang**, Ming Tang, Han Wang, Ke Xu\
+**A Defense Method and System for L1 Data Cache Side-Channel Attacks Based on Backup Cache (基于备份缓存的一级数据缓存侧信道攻击防御方法及系统 in Chinese)**\
+[Patent, Under Review] Patent (in Chinese) CN202311693095.5, 2024\
+[[Patent](http://epub.cnipa.gov.cn/patent/CN117807588A)]
 
-## 项目经历
+**Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu, Ming Tang\
+**BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions**\
+[Preprint, Under Review] CoRR, abs/arXiv:2304.10268, 2024.\
+[[Preprint](https://arxiv.org/pdf/2304.10268.pdf)]
 
-- 基于KLEE符号执行与Qt5的侧信道漏洞检测和修复平台（2022，负责KLEE和客户端开发）
+## Services
 
-- 基于SpringBoot、Vue.js的博客收录与推荐系统（2020，负责App和前端开发）
+- Reviewer: IEEE Internet of Things Journal (since 2023), International Journal of Information Security (since 2025).
+- Graduate Student Member: Institute of Electrical and Electronics Engineers (IEEE, since 2024).
 
-- 基于图数据结构和Qt5的校园导游系统（2019）：<https://github.com/iamywang/Campus-Guide-System>
+## Awards
 
-- 基于mpvue的无人机新闻微信小程序（2019）：<https://github.com/iamywang/UAV-News>
+- **National Scholarship for Doctor's Students**, Ministry of Education of China, 2024
+- **First Prize Excellence Scholarship for Doctor's Students**, Wuhan University, 2024
+- **Leijun Computer Scholarship for Graduate Students**, Wuhan University, 2023
+- **Second Prize Excellence Scholarship for Master’s Students**, Wuhan University, 2022
+- **First Prize Outstanding New Graduate Students**, Wuhan University, 2021
+- **Outstanding Undergraduate Student Award**, Shandong University, 2021
+- **First Prize Excellence Scholarship for Undergraduate Students**, Shandong University, 2020
+- **Second Prize Excellence Scholarship for Undergraduate Students**, Shandong University, 2019
+- **Third Prize Excellence Scholarship for Undergraduate Students**, Shandong University, 2018
 
-- 基于高德地图API的社交App（2019）：<https://github.com/iamywang/Dating-Android>
-
-- 利用C++标准库中bitset实现的Cache模拟器（2019）：<https://github.com/iamywang/Cache-Simulator>
-
-- 基于C++实现的PL/0语言编译器（2019）：<https://github.com/iamywang/compiler-pl0>
-
-## 代码统计
+## Coding Stats
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
