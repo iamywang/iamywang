@@ -77,12 +77,12 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 **Quancheng Wang**, Ming Tang, Han Wang, Ke Xu\
 **A Defense Method and System for L1 Data Cache Side-Channel Attacks Based on Backup Cache (基于备份缓存的一级数据缓存侧信道攻击防御方法及系统 in Chinese)**\
-[Patent, Under Review] Patent (in Chinese) CN202311693095.5, 2024\
+[Patent, Under Review] Patent (in Chinese) CN202311693095.5\
 [[Patent](http://epub.cnipa.gov.cn/patent/CN117807588A)]
 
 **Quancheng Wang**, Xige Zhang, Han Wang, Yuzhe Gu, Ming Tang\
 **BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions**\
-[Preprint, Under Review] CoRR, abs/arXiv:2304.10268, 2024.\
+[Preprint, Under Review] CoRR, abs/arXiv:2304.10268\
 [[Preprint](https://arxiv.org/pdf/2304.10268.pdf)]
 
 ## Services
