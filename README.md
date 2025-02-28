@@ -4,7 +4,7 @@ Ph.D. Candidate,\
 School of Cyber Science and Engineering,\
 Wuhan University, China
 
-[[**Email**](wangquancheng@whu.edu.cn)], [[**GitHub**](https://github.com/iamywang)], [[**Google Scholar**](https://scholar.google.com/citations?user=KhWFO6sAAAAJ&hl=en)], [[**DBLP**](https://dblp.org/pid/342/2802.html)], [[**ORCID**](https://orcid.org/0000-0002-0313-1853)], [[**WoS**](https://www.webofscience.com/wos/author/record/ITT-2810-2023)], [[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=58151310700)]
+[[**Email**](mailto:wangquancheng@whu.edu.cn)], [[**GitHub**](https://github.com/iamywang)], [[**Google Scholar**](https://scholar.google.com/citations?user=KhWFO6sAAAAJ&hl=en)], [[**DBLP**](https://dblp.org/pid/342/2802.html)], [[**ORCID**](https://orcid.org/0000-0002-0313-1853)], [[**WoS**](https://www.webofscience.com/wos/author/record/ITT-2810-2023)], [[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=58151310700)]
 
 **I am expected to receive my Ph.D. degree in 2026 and am currently exploring job opportunities in the industry. Please feel free to reach out if you have any questions or would like to discuss potential collaborations.**
 
