@@ -55,7 +55,7 @@ Han Wang, Ming Tang, **Quancheng Wang**, Ke Xu, Yinqian Zhang\
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 **Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors**\
-[TC, CCF-A, JCR Q2] IEEE Transactions on Computers (TC), 2024.\
+[TC, CCF-A, JCR Q2] IEEE Transactions on Computers (TC), 2025.\
 [[Paper](https://doi.org/10.1109/TC.2024.3521225)]
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
