@@ -12,10 +12,11 @@ Wuhan University, China
 
 ## Biography
 
-I am currently a second-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/1104/1798.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for IEEE IoT-J and Springer IJIS.
+I am currently a second-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/1104/1798.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, AsiaCCS, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for IEEE IoT-J and Springer IJIS.
 
 ## News
 
+- **[2025.04]** Our paper "Title TBD" has been accepted with shepherding to **AsiaCCS 2025**.
 - **[2025.01]** Our paper "[Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology](https://doi.org/10.1145/3711923)" has been accepted to **ACM TACO**.
 - **[2024.11]** I have been awarded the ["National Scholarship for Doctor's Students"](https://www.whu.edu.cn/info/1118/191824.htm).
 - **[2023.12]** Our paper "[Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)](https://doi.org/10.13868/j.cnki.jcr.000730)" has been accepted to **Journal of Cryptologic Research (密码学报 in Chinese)**.
@@ -25,6 +26,11 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 ## Publications
 
 ### (Co-) First Author
+
+**Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
+**Title TBD**\
+[AsiaCCS, CCF-C, CORE A] 20th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2025.\
+[Accepted with Shepherding]
 
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology**\
