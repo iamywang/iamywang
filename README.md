@@ -17,11 +17,12 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 ## News
 
 - **[2025.04]** Our paper "Title TBD" has been accepted with shepherding to **AsiaCCS 2025**.
-- **[2025.01]** Our paper "[Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology](https://doi.org/10.1145/3711923)" has been accepted to **ACM TACO**.
+- **[2025.01]** Our paper ["Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology"](https://doi.org/10.1145/3711923) has been accepted to **ACM TACO**.
 - **[2024.11]** I have been awarded the ["National Scholarship for Doctor's Students"](https://www.whu.edu.cn/info/1118/191824.htm).
-- **[2023.12]** Our paper "[Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)](https://doi.org/10.13868/j.cnki.jcr.000730)" has been accepted to **Journal of Cryptologic Research (密码学报 in Chinese)**.
-- **[2023.10]** Our paper "[Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities](https://doi.org/10.1109/HPCA57654.2024.00038)" has been accepted to **HPCA 2024**.
-- **[2023.07]** Our paper "[EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones](https://doi.org/10.1109/JIOT.2023.3298992)" has been accepted to **IEEE IoT-J**.
+- **[2023.12]** Our paper ["Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)"](https://doi.org/10.13868/j.cnki.jcr.000730) has been accepted to **Journal of Cryptologic Research (密码学报 in Chinese)**.
+- **[2023.10]** Our work published in HPCA 2024 was featured in a news by Wuhan University: ["Two papers from Professor Ming Tang's research group have been accepted by IEEE HPCA 2024"](https://news.whu.edu.cn/info/1015/444787.htm).
+- **[2023.10]** Our paper ["Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities"](https://doi.org/10.1109/HPCA57654.2024.00038) has been accepted to **HPCA 2024**.
+- **[2023.07]** Our paper ["EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones"](https://doi.org/10.1109/JIOT.2023.3298992) has been accepted to **IEEE IoT-J**.
 
 ## Publications
 
@@ -40,7 +41,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities**\
 [HPCA, CCF-A, CORE A*] 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024.\
-[[Paper](https://doi.org/10.1109/HPCA57654.2024.00038)], [[Preprint](https://iamywang.github.io/pubs/wang24hpca.pdf)], [[Code](https://github.com/iamywang/bp-security-framework)], [[Slides](https://iamywang.github.io/pubs/wang24hpca-slides.pdf)], [[Poster](https://iamywang.github.io/pubs/wang24hpca-poster.pdf)]
+[[Paper](https://doi.org/10.1109/HPCA57654.2024.00038)], [[Preprint](https://iamywang.github.io/pubs/wang24hpca.pdf)], [[Code](https://github.com/iamywang/bp-security-framework)], [[Slides](https://iamywang.github.io/pubs/wang24hpca-slides.pdf)], [[Poster](https://iamywang.github.io/pubs/wang24hpca-poster.pdf)], [[News](https://news.whu.edu.cn/info/1015/444787.htm)]
 
 **Quancheng Wang**, Ming Tang, Jianming Fu\
 **EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones**\
@@ -57,7 +58,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 Han Wang, Ming Tang, **Quancheng Wang**, Ke Xu, Yinqian Zhang\
 **ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors**\
 [DAC, CCF-A, CORE A] 2025 Design Automation Conference (DAC), 2025.\
-[Accepted], [[AMD Response](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7032.html)]
+[Accepted], [[AMD Response](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7032.html)], [[News](https://cse.whu.edu.cn/info/2651/34431.htm)]
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 **Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors**\
@@ -67,7 +68,7 @@ Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 **Exploitation of Security Vulnerability on Retirement**\
 [HPCA, CCF-A, CORE A*] 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024.\
-[[Paper](https://doi.org/10.1109/HPCA57654.2024.00012)], [[Preprint](https://arxiv.org/pdf/2307.12486.pdf)]
+[[Paper](https://doi.org/10.1109/HPCA57654.2024.00012)], [[Preprint](https://arxiv.org/pdf/2307.12486.pdf)], [[News](https://news.whu.edu.cn/info/1015/444787.htm)]
 
 Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**\
 **Cache Bandwidth Contention Leaks Secrets**\
