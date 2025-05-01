@@ -14,6 +14,12 @@ Wuhan University, China
 
 I am currently a second-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/1104/1798.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, AsiaCCS, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for IEEE IoT-J and Springer IJIS.
 
+## Working Experience
+
+- **2025.04 - Present**:
+  - Internship at DAMO Academy, Alibaba Group, Hangzhou, China
+  - Chip Security Engineer Intern
+
 ## News
 
 - **[2025.04]** Our paper "Title TBD" has been accepted with shepherding to **AsiaCCS 2025**.
