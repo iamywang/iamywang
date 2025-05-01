@@ -17,8 +17,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 ## Working Experience
 
 - **2025.04 - Present**:
-  - Internship at DAMO Academy, Alibaba Group, Hangzhou, China
-  - Chip Security Engineer Intern
+  - Chip Security Engineer Intern at DAMO Academy, Alibaba Group, Hangzhou, China
 
 ## News
 
