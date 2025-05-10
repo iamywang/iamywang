@@ -21,14 +21,15 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 
 ## News
 
+- **[2025.04]** I have been awarded the ["Lei Jun Computer Breakthrough Scholarship"](https://cs.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1055&wbnewsid=53261) along with [Ke Xu](https://github.com/XukeWhu) and [Han Wang](https://github.com/hanwang-sec).
 - **[2025.04]** Our paper "Title TBD" has been accepted with shepherding to **AsiaCCS 2025**.
 - **[2025.01]** Our paper ["Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology"](https://doi.org/10.1145/3711923) has been accepted to **ACM TACO**.
 - **[2024.11]** I have been awarded the ["National Scholarship for Doctor's Students"](https://www.whu.edu.cn/info/1118/191824.htm).
 - **[2023.12]** Our paper ["Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)"](https://doi.org/10.13868/j.cnki.jcr.000730) has been accepted to **Journal of Cryptologic Research (密码学报 in Chinese)**.
+- **[2023.10]** I have been awarded the ["Lei Jun Computer Scholarship for Graduate Students"](https://cse.whu.edu.cn/info/3241/30991.htm).
 - **[2023.10]** Our work published in HPCA 2024 was featured in a news by Wuhan University: ["Two papers from Professor Ming Tang's research group have been accepted by IEEE HPCA 2024"](https://news.whu.edu.cn/info/1015/444787.htm).
 - **[2023.10]** Our paper ["Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities"](https://doi.org/10.1109/HPCA57654.2024.00038) has been accepted to **HPCA 2024**.
 - **[2023.07]** Our paper ["EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones"](https://doi.org/10.1109/JIOT.2023.3298992) has been accepted to **IEEE IoT-J**.
-
 ## Publications
 
 ### (Co-) First Author
@@ -104,9 +105,10 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ## Awards
 
-- **National Scholarship for Doctor's Students**, Ministry of Education of China, 2024
+- **Lei Jun Computer Breakthrough Scholarship** (5W RMB), Wuhan University, 2025
+- **National Scholarship for Doctor's Students** (3W RMB), Ministry of Education of China, 2024
 - **First Prize Excellence Scholarship for Doctor's Students**, Wuhan University, 2024
-- **Leijun Computer Scholarship for Graduate Students**, Wuhan University, 2023
+- **Lei Jun Computer Scholarship for Graduate Students**, Wuhan University, 2023
 - **Second Prize Excellence Scholarship for Master’s Students**, Wuhan University, 2022
 - **First Prize Outstanding New Graduate Students**, Wuhan University, 2021
 - **Outstanding Undergraduate Student Award**, Shandong University, 2021
