@@ -37,7 +37,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors**\
 [AsiaCCS, CCF-C, CORE A] 20th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2025.\
-[Accepted]
+[[Paper](https://doi.org/10.1145/3708821.3736198)]
 
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology**\
@@ -64,7 +64,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 Han Wang, Ming Tang, **Quancheng Wang**, Ke Xu, Yinqian Zhang\
 **ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors**\
 [DAC, CCF-A, CORE A] 2025 Design Automation Conference (DAC), 2025.\
-[Accepted], [[AMD Response](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7032.html)], [[News](https://cse.whu.edu.cn/info/2651/34431.htm)]
+[Accepted], [[AMD Response](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7032.html)], [[News](https://cse.whu.edu.cn/info/2651/34431.htm)] **Best Paper Award Nominee**
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 **Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors**\
