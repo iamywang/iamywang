@@ -22,7 +22,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 ## News
 
 - **[2025.04]** I have been awarded the ["Lei Jun Computer Breakthrough Scholarship"](https://cs.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1055&wbnewsid=53261) along with [Ke Xu](https://github.com/XukeWhu) and [Han Wang](https://github.com/hanwang-sec).
-- **[2025.04]** Our paper "BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors" has been accepted to **AsiaCCS 2025**.
+- **[2025.04]** Our paper ["BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors"](https://doi.org/10.1145/3708821.3736198) has been accepted to **AsiaCCS 2025**.
 - **[2025.01]** Our paper ["Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology"](https://doi.org/10.1145/3711923) has been accepted to **ACM TACO**.
 - **[2024.11]** I have been awarded the ["National Scholarship for Doctor's Students"](https://www.whu.edu.cn/info/1118/191824.htm).
 - **[2023.12]** Our paper ["Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)"](https://doi.org/10.13868/j.cnki.jcr.000730) has been accepted to **Journal of Cryptologic Research (密码学报 in Chinese)**.
