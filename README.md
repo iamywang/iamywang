@@ -101,7 +101,7 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 ## Services
 
 - Reviewer: IEEE Internet of Things Journal (since 2023), International Journal of Information Security (since 2025).
-- Graduate Student Member: Institute of Electrical and Electronics Engineers (IEEE, since 2024).
+- ACM Student Member (Jun 2025 -- May 2026), IEEE Graduate Student Member (Jan  2024 -- Dec 2024), CCF Student Member (Jul 2024 -- Dec 2024).
 
 ## Awards
 
