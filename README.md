@@ -133,16 +133,15 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 29 mins        ████████████████████████░   95.67 % 
-C++                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/06/2025 02:04:01 UTC
+ Last Updated on 20/06/2025 02:02:49 UTC
 <!--END_SECTION:waka-->
