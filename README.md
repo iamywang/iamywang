@@ -133,15 +133,15 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2025 02:09:34 UTC
+ Last Updated on 01/07/2025 02:21:51 UTC
 <!--END_SECTION:waka-->
