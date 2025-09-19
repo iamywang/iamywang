@@ -64,7 +64,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 Han Wang, Ming Tang, **Quancheng Wang**, Ke Xu, Yinqian Zhang\
 **ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors**\
 [DAC, CCF-A, CORE A] 2025 Design Automation Conference (DAC), 2025.\
-[Accepted], [[AMD Response](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7032.html)], [[News](https://cse.whu.edu.cn/info/2651/34431.htm)] **Best Paper Award Nominee**
+[[Paper](https://doi.org/10.1109/DAC63849.2025.11133253)], [[AMD Response](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7032.html)], [[News](https://cse.whu.edu.cn/info/2651/34431.htm)] **Best Paper Award Nominee**
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 **Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors**\
