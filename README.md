@@ -100,21 +100,14 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ## Services
 
-- Reviewer: IEEE Internet of Things Journal (since 2023), International Journal of Information Security (since 2025).
-- ACM Student Member (Jun 2025 -- May 2026), IEEE Graduate Student Member (Jan  2024 -- Dec 2024), CCF Student Member (Jul 2024 -- Dec 2024).
+- **Reviewer**
+  - IEEE Internet of Things Journal (since 2023)
+  - International Journal of Information Security (since 2025)
 
-## Awards
-
-- **Lei Jun Computer Breakthrough Scholarship** (5W RMB), Wuhan University, 2025
-- **National Scholarship for Doctor's Students** (3W RMB), Ministry of Education of China, 2024
-- **First Prize Excellence Scholarship for Doctor's Students**, Wuhan University, 2024
-- **Lei Jun Computer Scholarship for Graduate Students**, Wuhan University, 2023
-- **Second Prize Excellence Scholarship for Master’s Students**, Wuhan University, 2022
-- **First Prize Outstanding New Graduate Students**, Wuhan University, 2021
-- **Outstanding Undergraduate Student Award**, Shandong University, 2021
-- **First Prize Excellence Scholarship for Undergraduate Students**, Shandong University, 2020
-- **Second Prize Excellence Scholarship for Undergraduate Students**, Shandong University, 2019
-- **Third Prize Excellence Scholarship for Undergraduate Students**, Shandong University, 2018
+- **Member**
+  - ACM Student Member (Jun 2025 -- May 2026)
+  - IEEE Graduate Student Member (Jan 2024 -- Dec 2024)
+  - CCF Student Member (Jul 2024 -- Dec 2024)
 
 ## Coding Stats
 
