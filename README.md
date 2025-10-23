@@ -37,7 +37,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors**\
 [AsiaCCS, CCF-C, CORE A] 20th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2025.\
-[[Paper](https://doi.org/10.1145/3708821.3736198)], [[Preprint](https://iamywang.github.io/pubs/wang25asiaccs.pdf)]
+[[Paper](https://doi.org/10.1145/3708821.3736198)], [[Preprint](https://iamywang.github.io/pubs/wang25asiaccs.pdf)], [[Code](https://github.com/iamywang/branch-gauge)], [[Slides](https://iamywang.github.io/pubs/wang25asiaccs-slides.pdf)]
 
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology**\
