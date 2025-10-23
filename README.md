@@ -21,15 +21,17 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 
 ## News
 
-- **[2025.04]** I have been awarded the ["Lei Jun Computer Breakthrough Scholarship"](https://cs.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1055&wbnewsid=53261) along with [Ke Xu](https://github.com/XukeWhu) and [Han Wang](https://github.com/hanwang-sec).
+- **[2025.10]** I have been awarded the ["National Scholarship (博士研究生国家奖学金)"](https://cse.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=2601&wbnewsid=41241).
+- **[2025.04]** I have been awarded the ["Lei Jun Computer Breakthrough Scholarship (雷军计算机突破奖学金)"](https://cs.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1055&wbnewsid=53261) along with [Ke Xu](https://github.com/XukeWhu) and [Han Wang](https://github.com/hanwang-sec).
 - **[2025.04]** Our paper ["BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors"](https://doi.org/10.1145/3708821.3736198) has been accepted to **AsiaCCS 2025**.
 - **[2025.01]** Our paper ["Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology"](https://doi.org/10.1145/3711923) has been accepted to **ACM TACO**.
-- **[2024.11]** I have been awarded the ["National Scholarship for Doctor's Students"](https://www.whu.edu.cn/info/1118/191824.htm).
+- **[2024.11]** I have been awarded the ["National Scholarship (博士研究生国家奖学金)"](https://www.whu.edu.cn/info/1118/191824.htm).
 - **[2023.12]** Our paper ["Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)"](https://doi.org/10.13868/j.cnki.jcr.000730) has been accepted to **Journal of Cryptologic Research (密码学报 in Chinese)**.
-- **[2023.10]** I have been awarded the ["Lei Jun Computer Scholarship for Graduate Students"](https://cse.whu.edu.cn/info/3241/30991.htm).
-- **[2023.10]** Our work published in HPCA 2024 was featured in a news by Wuhan University: ["Two papers from Professor Ming Tang's research group have been accepted by IEEE HPCA 2024"](https://news.whu.edu.cn/info/1015/444787.htm).
+- **[2023.10]** I have been awarded the ["Lei Jun Computer Scholarship (雷军计算机奖学金)"](https://cse.whu.edu.cn/info/3241/30991.htm).
+- **[2023.10]** Our work published in HPCA 2024 was featured in a news by Wuhan University: ["Two papers from Professor Ming Tang's research group have been accepted by IEEE HPCA 2024 (唐明教授课题组两篇论文被IEEE HPCA 2024录用)"](https://news.whu.edu.cn/info/1015/444787.htm).
 - **[2023.10]** Our paper ["Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities"](https://doi.org/10.1109/HPCA57654.2024.00038) has been accepted to **HPCA 2024**.
 - **[2023.07]** Our paper ["EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones"](https://doi.org/10.1109/JIOT.2023.3298992) has been accepted to **IEEE IoT-J**.
+
 ## Publications
 
 ### (Co-) First Author
