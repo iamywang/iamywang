@@ -12,7 +12,7 @@ Wuhan University, China
 
 ## Biography
 
-I am currently a second-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/1104/1798.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, AsiaCCS, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for IEEE IoT-J and Springer IJIS.
+I am currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/3501/37751.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, AsiaCCS, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for IEEE IoT-J and Springer IJIS.
 
 ## Working Experience
 
@@ -21,7 +21,7 @@ I am currently a second-year Ph.D. student at the School of Cyber Science and En
 
 ## News
 
-- **[2025.10]** I have been awarded the ["National Scholarship (博士研究生国家奖学金)"](https://cse.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=2601&wbnewsid=41241).
+- **[2025.10]** I have been awarded the ["National Scholarship (博士研究生国家奖学金)"](https://www.whu.edu.cn/new2024/tzggnr.jsp?urltype=news.NewsContentUrl&wbtreeid=5231&wbnewsid=259694).
 - **[2025.04]** I have been awarded the ["Lei Jun Computer Breakthrough Scholarship (雷军计算机突破奖学金)"](https://cs.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1055&wbnewsid=53261) along with [Ke Xu](https://github.com/XukeWhu) and [Han Wang](https://github.com/hanwang-sec).
 - **[2025.04]** Our paper ["BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors"](https://doi.org/10.1145/3708821.3736198) has been accepted to **AsiaCCS 2025**.
 - **[2025.01]** Our paper ["Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology"](https://doi.org/10.1145/3711923) has been accepted to **ACM TACO**.
