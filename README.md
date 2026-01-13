@@ -6,13 +6,11 @@ Wuhan University, China
 
 [[**Email**](mailto:wangquancheng@whu.edu.cn)], [[**GitHub**](https://github.com/iamywang)], [[**Google Scholar**](https://scholar.google.com/citations?user=KhWFO6sAAAAJ&hl=en)], [[**DBLP**](https://dblp.org/pid/342/2802.html)], [[**ORCID**](https://orcid.org/0000-0002-0313-1853)], [[**WoS**](https://www.webofscience.com/wos/author/record/ITT-2810-2023)], [[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=58151310700)]
 
-**I am expected to receive my Ph.D. degree in 2026 and am currently exploring job opportunities in the industry. Please feel free to reach out if you have any questions or would like to discuss potential collaborations.**
-
 ![](https://github-readme-stats-iamywang.vercel.app/api?username=iamywang&theme=buefy&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
 ## Biography
 
-I am currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/3501/37751.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, AsiaCCS, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for IEEE IoT-J and Springer IJIS.
+I am currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/3501/37751.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, AsiaCCS, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for several journals.
 
 ## Working Experience
 
@@ -38,7 +36,7 @@ I am currently a third-year Ph.D. student at the School of Cyber Science and Eng
 
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors**\
-[AsiaCCS, CCF-C, CORE A] 20th ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2025.\
+[AsiaCCS, CCF-C, CORE A] ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2025.\
 [[Paper](https://doi.org/10.1145/3708821.3736198)], [[Preprint](https://iamywang.github.io/pubs/wang25asiaccs.pdf)], [[Code](https://github.com/iamywang/branch-gauge)], [[Slides](https://iamywang.github.io/pubs/wang25asiaccs-slides.pdf)]
 
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
@@ -48,7 +46,7 @@ I am currently a third-year Ph.D. student at the School of Cyber Science and Eng
 
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities**\
-[HPCA, CCF-A, CORE A*] 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024.\
+[HPCA, CCF-A, CORE A*] IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024.\
 [[Paper](https://doi.org/10.1109/HPCA57654.2024.00038)], [[Preprint](https://iamywang.github.io/pubs/wang24hpca.pdf)], [[Code](https://github.com/iamywang/bp-security-framework)], [[Slides](https://iamywang.github.io/pubs/wang24hpca-slides.pdf)], [[Poster](https://iamywang.github.io/pubs/wang24hpca-poster.pdf)], [[News](https://news.whu.edu.cn/info/1015/444787.htm)]
 
 **Quancheng Wang**, Ming Tang, Jianming Fu\
@@ -65,7 +63,7 @@ I am currently a third-year Ph.D. student at the School of Cyber Science and Eng
 
 Han Wang, Ming Tang, **Quancheng Wang**, Ke Xu, Yinqian Zhang\
 **ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors**\
-[DAC, CCF-A, CORE A] 2025 Design Automation Conference (DAC), 2025.\
+[DAC, CCF-A, CORE A] ACM/IEEE Design Automation Conference (DAC), 2025.\
 [[Paper](https://doi.org/10.1109/DAC63849.2025.11133253)], [[AMD Response](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7032.html)], [[News](https://cse.whu.edu.cn/info/2651/34431.htm)] **Best Paper Award Nominee**
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
@@ -75,12 +73,12 @@ Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 **Exploitation of Security Vulnerability on Retirement**\
-[HPCA, CCF-A, CORE A*] 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024.\
+[HPCA, CCF-A, CORE A*] IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024.\
 [[Paper](https://doi.org/10.1109/HPCA57654.2024.00012)], [[Preprint](https://arxiv.org/pdf/2307.12486.pdf)], [[News](https://news.whu.edu.cn/info/1015/444787.htm)]
 
 Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**\
 **Cache Bandwidth Contention Leaks Secrets**\
-[DATE, CCF-B, CORE B] 2024 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024.\
+[DATE, CCF-B, CORE B] Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024.\
 [[Paper](https://doi.org/10.23919/DATE58400.2024.10546529)], [[Preprint](https://arxiv.org/pdf/2306.01996.pdf)]
 
 Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
@@ -103,8 +101,9 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 ## Services
 
 - **Reviewer**
-  - IEEE Internet of Things Journal (since 2023)
-  - International Journal of Information Security (since 2025)
+  - IEEE Internet of Things Journal, IEEE (since 2023)
+  - International Journal of Information Security, Springer (since 2025)
+  - The Journal of Supercomputing, Springer (since 2025)
 
 - **Member**
   - ACM Student Member (Jun 2025 -- May 2026)
