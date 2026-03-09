@@ -127,20 +127,20 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ```text
 💬 Programming Languages: 
-TeX                      23 hrs 4 mins       █████████████████████░░░░   85.05 % 
-Other                    3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Python                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Diff                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TeX                      22 hrs 16 mins      █████████████████████░░░░   84.68 % 
+Other                    3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Python                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Diff                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 BibTeX                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  26 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 47 mins      █████████████████████████   98.71 % 
-Mac                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Linux                    25 hrs 57 mins      █████████████████████████   98.67 % 
+Mac                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
- Last Updated on 08/03/2026 02:43:25 UTC
+ Last Updated on 09/03/2026 02:44:47 UTC
 <!--END_SECTION:waka-->
