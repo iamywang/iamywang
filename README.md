@@ -127,20 +127,19 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr                █████████████░░░░░░░░░░░░   52.93 % 
-JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Makefile                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TeX                      1 hr 17 mins        ██████████████████░░░░░░░   72.75 % 
+JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 33 mins        ████████████████████░░░░░   81.07 % 
-Mac                      21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Linux                    1 hr 25 mins        ████████████████████░░░░░   79.62 % 
+Mac                      21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
 ```
 
 
- Last Updated on 23/03/2026 02:50:32 UTC
+ Last Updated on 24/03/2026 02:41:31 UTC
 <!--END_SECTION:waka-->
