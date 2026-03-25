@@ -127,19 +127,17 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 17 mins        ██████████████████░░░░░░░   72.75 % 
-JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TeX                      2 hrs 3 mins        █████████████████████░░░░   84.97 % 
+JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 25 mins        ████████████████████░░░░░   79.62 % 
-Mac                      21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Linux                    2 hrs 3 mins        █████████████████████░░░░   84.97 % 
+Mac                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
 
 
- Last Updated on 24/03/2026 02:41:31 UTC
+ Last Updated on 25/03/2026 02:47:05 UTC
 <!--END_SECTION:waka-->
