@@ -113,6 +113,35 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 ## Coding Stats
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 04:02:39 UTC
+```text
+🌞 Morning                716 commits         ██████████░░░░░░░░░░░░░░░   41.36 % 
+🌆 Daytime                688 commits         ██████████░░░░░░░░░░░░░░░   39.75 % 
+🌃 Evening                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      5 hrs 8 mins        ████████████████████░░░░░   81.18 % 
+YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+BST                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+BibTeX                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 5 mins        ████████████████████████░   96.20 % 
+Unknown Editor           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+
+💻 Operating System: 
+Linux                    4 hrs 4 mins        ████████████████░░░░░░░░░   64.30 % 
+Mac                      2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
+```
+
+
+ Last Updated on 16/05/2026 03:43:59 UTC
 <!--END_SECTION:waka-->
