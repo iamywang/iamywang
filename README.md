@@ -113,34 +113,6 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 ## Coding Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                716 commits         ██████████░░░░░░░░░░░░░░░   41.36 % 
-🌆 Daytime                688 commits         ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌃 Evening                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 17 mins        ███████████░░░░░░░░░░░░░░   45.67 % 
-TeX                      58 mins             █████████░░░░░░░░░░░░░░░░   34.69 % 
-Python                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 46 mins       █████████████████████████   98.55 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-
-💻 Operating System: 
-Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 04:15:02 UTC
+ Last Updated on 23/05/2026 03:53:48 UTC
 <!--END_SECTION:waka-->
