@@ -10,7 +10,7 @@ Wuhan University, China
 
 ## Biography
 
-I am currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, under the guidance of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/3501/37751.htm). I earned my B.S. degree from School of Software, Shandong University in 2021. My research focuses on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including IEEE HPCA, AsiaCCS, ACM TACO, and IEEE IoT-J. Additionally, I have contributed as a reviewer for several journals.
+I received my Ph.D. degree in 2026 from the School of Cyber Science and Engineering, Wuhan University, under the supervision of [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/3501/37751.htm). Before that, I earned my B.S. degree in 2021 from the School of Software, Shandong University. My research interests focus on hardware security, microarchitecture security, and system security. I have published several papers in top-tier conferences and journals, including HPCA, AsiaCCS, ACM TACO, and IEEE IoT-J, and have also served as a reviewer for multiple journals.
 
 ## Working Experience
 
