@@ -116,9 +116,9 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                716 commits         ██████████░░░░░░░░░░░░░░░   41.36 % 
-🌆 Daytime                688 commits         ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌃 Evening                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+🌞 Morning                716 commits         ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌆 Daytime                691 commits         ██████████░░░░░░░░░░░░░░░   39.85 % 
+🌃 Evening                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
@@ -127,20 +127,19 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 mins             ██████████████░░░░░░░░░░░   56.09 % 
-JSON                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-TeX                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JSON                     7 mins              ███████████████░░░░░░░░░░   58.77 % 
+Other                    3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+TeX                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 
 🔥 Editors: 
-VS Code                  25 mins             ███████████████████████░░   91.14 % 
-Claude Code              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+VS Code                  9 mins              ████████████████████░░░░░   79.83 % 
+Claude Code              2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 
 💻 Operating System: 
-Mac                      25 mins             ███████████████████████░░   93.35 % 
-Linux                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Mac                      10 mins             █████████████████████░░░░   84.85 % 
+Linux                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 ```
 
 
- Last Updated on 25/05/2026 04:25:12 UTC
+ Last Updated on 26/05/2026 04:10:26 UTC
 <!--END_SECTION:waka-->
