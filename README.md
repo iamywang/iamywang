@@ -19,13 +19,14 @@ I received my Ph.D. degree in 2026 from the School of Cyber Science and Engineer
 
 ## News
 
-- **[2025.10]** I have been awarded the ["National Scholarship (博士研究生国家奖学金)"](https://www.whu.edu.cn/new2024/tzggnr.jsp?urltype=news.NewsContentUrl&wbtreeid=5231&wbnewsid=259694).
-- **[2025.04]** I have been awarded the ["Lei Jun Computer Breakthrough Scholarship (雷军计算机突破奖学金)"](https://cs.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1055&wbnewsid=53261) along with [Ke Xu](https://github.com/XukeWhu) and [Han Wang](https://github.com/hanwang-sec).
+- **[2026.05]** I have successfully defended my Ph.D. thesis and will graduate in June 2026.
+- **[2025.10]** I have been awarded the "National Scholarship (博士研究生国家奖学金)".
+- **[2025.04]** I have been awarded the "Lei Jun Computer Breakthrough Scholarship (雷军计算机突破奖学金)" along with [Ke Xu](https://github.com/XukeWhu) and [Han Wang](https://github.com/hanwang-sec).
 - **[2025.04]** Our paper ["BranchGauge: Modeling and Quantifying Side-Channel Leakage in Randomization-Based Secure Branch Predictors"](https://doi.org/10.1145/3708821.3736198) has been accepted to **AsiaCCS 2025**.
 - **[2025.01]** Our paper ["Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology"](https://doi.org/10.1145/3711923) has been accepted to **ACM TACO**.
-- **[2024.11]** I have been awarded the ["National Scholarship (博士研究生国家奖学金)"](https://www.whu.edu.cn/info/1118/191824.htm).
+- **[2024.11]** I have been awarded the "National Scholarship (博士研究生国家奖学金)".
 - **[2023.12]** Our paper ["Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)"](https://doi.org/10.13868/j.cnki.jcr.000730) has been accepted to **Journal of Cryptologic Research (密码学报 in Chinese)**.
-- **[2023.10]** I have been awarded the ["Lei Jun Computer Scholarship (雷军计算机奖学金)"](https://cse.whu.edu.cn/info/3241/30991.htm).
+- **[2023.10]** I have been awarded the "Lei Jun Computer Scholarship (雷军计算机奖学金)".
 - **[2023.10]** Our work published in HPCA 2024 was featured in a news by Wuhan University: ["Two papers from Professor Ming Tang's research group have been accepted by IEEE HPCA 2024 (唐明教授课题组两篇论文被IEEE HPCA 2024录用)"](https://news.whu.edu.cn/info/1015/444787.htm).
 - **[2023.10]** Our paper ["Modeling, Derivation, and Automated Analysis of Branch Predictor Security Vulnerabilities"](https://doi.org/10.1109/HPCA57654.2024.00038) has been accepted to **HPCA 2024**.
 - **[2023.07]** Our paper ["EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones"](https://doi.org/10.1109/JIOT.2023.3298992) has been accepted to **IEEE IoT-J**.
@@ -41,7 +42,7 @@ I received my Ph.D. degree in 2026 from the School of Cyber Science and Engineer
 
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
 **Unveiling and Evaluating Vulnerabilities in Branch Predictors via a Three-Step Modeling Methodology**\
-[TACO, CCF-A, JCR Q2] ACM Transactions on Architecture and Code Optimization (TACO), 2025.\
+[TACO, CCF-A, SCI三区] ACM Transactions on Architecture and Code Optimization (TACO), 2025.\
 [[Paper](https://doi.org/10.1145/3711923)]
 
 **Quancheng Wang**, Ming Tang, Ke Xu, Han Wang\
@@ -51,12 +52,12 @@ I received my Ph.D. degree in 2026 from the School of Cyber Science and Engineer
 
 **Quancheng Wang**, Ming Tang, Jianming Fu\
 **EavesDroid: Eavesdropping User Behaviors via OS Side-Channels on Smartphones**\
-[IoT-J, CCF-C, JCR Q1] IEEE Internet of Things Journal (IoT-J), 2024.\
+[IoT-J, CCF-C, SCI一区] IEEE Internet of Things Journal (IoT-J), 2024.\
 [[Paper](https://doi.org/10.1109/JIOT.2023.3298992)], [[Preprint](https://iamywang.github.io/pubs/wang23iotj.pdf)], [[Code](https://github.com/iamywang/EavesDroid)]
 
 **Quancheng Wang**, Ming Tang\
 **Survey of Attack Techniques for Microarchitecture Security Vulnerabilities (微架构安全漏洞攻击技术综述 in Chinese)**\
-[JCR, CCF-T2] Journal of Cryptologic Research (密码学报 in Chinese), 2024.\
+[JCR, CCF-T2, CSCD] Journal of Cryptologic Research (密码学报 in Chinese), 2024.\
 [[Paper](https://doi.org/10.13868/j.cnki.jcr.000730)]
 
 ### Co-author
@@ -68,7 +69,7 @@ Han Wang, Ming Tang, **Quancheng Wang**, Ke Xu, Yinqian Zhang\
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
 **Microarchitectural Attacks and Mitigations on Retire Resources in Modern Processors**\
-[TC, CCF-A, JCR Q2] IEEE Transactions on Computers (TC), 2025.\
+[TC, CCF-A, SCI二区] IEEE Transactions on Computers (TC), 2025.\
 [[Paper](https://doi.org/10.1109/TC.2024.3521225)]
 
 Ke Xu, Ming Tang, **Quancheng Wang**, Han Wang\
@@ -83,7 +84,7 @@ Han Wang, Ming Tang, Ke Xu, **Quancheng Wang**\
 
 Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 **One more set: Mitigating conflict-based cache side-channel attacks by extending cache set**\
-[JSA, CCF-B, JCR Q1] Journal of Systems Architecture (JSA), 2023.\
+[JSA, CCF-B, SCI三区] Journal of Systems Architecture (JSA), 2023.\
 [[Paper](https://doi.org/10.1016/j.sysarc.2023.102997)]
 
 ### Under Review
@@ -101,9 +102,10 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 ## Services
 
 - **Reviewer**
-  - IEEE Internet of Things Journal, IEEE (since 2023)
-  - International Journal of Information Security, Springer (since 2025)
-  - The Journal of Supercomputing, Springer (since 2025)
+  - IEEE Internet of Things Journal, IEEE (SCI一区)
+  - Journal of Systems Architecture, Elsevier (CCF-B)
+  - The Journal of Supercomputing, Springer (CCF-C)
+  - International Journal of Information Security, Springer (SCI四区)
 
 - **Member**
   - ACM Student Member (Jun 2025 -- May 2026)
