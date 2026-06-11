@@ -4,8 +4,7 @@ Ph.D. Candidate,\
 Wuhan University,\
 Wuhan, China
 
-[[**Email**](mailto:wangquancheng@whu.edu.cn)], [[**GitHub**](https://github.com/iamywang)], [[**Scholar**](https://scholar.google.com/citations?user=KhWFO6sAAAAJ&hl=en)], [[**ORCID**](https://orcid.org/0000-0002-0313-1853)]\
-[[**DBLP**](https://dblp.org/pid/342/2802.html)], [[**WoS**](https://www.webofscience.com/wos/author/record/ITT-2810-2023)], [[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=58151310700)]
+[[**Email**](mailto:wangquancheng@whu.edu.cn)], [[**GitHub**](https://github.com/iamywang)], [[**Scholar**](https://scholar.google.com/citations?user=KhWFO6sAAAAJ&hl=en)], [[**ORCID**](https://orcid.org/0000-0002-0313-1853)], [[**DBLP**](https://dblp.org/pid/342/2802.html)], [[**WoS**](https://www.webofscience.com/wos/author/record/ITT-2810-2023)], [[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=58151310700)]
 
 ## Biography
 
