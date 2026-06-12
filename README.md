@@ -130,10 +130,10 @@ Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu\
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                719 commits         ██████████░░░░░░░░░░░░░░░   41.39 % 
-🌆 Daytime                691 commits         ██████████░░░░░░░░░░░░░░░   39.78 % 
-🌃 Evening                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+🌞 Morning                719 commits         ██████████░░░░░░░░░░░░░░░   41.30 % 
+🌆 Daytime                695 commits         ██████████░░░░░░░░░░░░░░░   39.92 % 
+🌃 Evening                313 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 
@@ -141,18 +141,20 @@ Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu\
 
 ```text
 💬 Programming Languages: 
-TeX                      27 mins             ██████████████░░░░░░░░░░░   56.10 % 
-OpenEdge ABL             14 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-Text                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Markdown                 2 hrs 21 mins       ███████████████░░░░░░░░░░   59.57 % 
+YAML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+TeX                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+OpenEdge ABL             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 mins             ██████████████████████░░░   89.41 % 
-Linux                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Mac                      3 hrs 51 mins       ████████████████████████░   97.81 % 
+Linux                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 
 
- Last Updated on 11/06/2026 04:40:31 UTC
+ Last Updated on 12/06/2026 04:42:53 UTC
 <!--END_SECTION:waka-->
