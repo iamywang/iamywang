@@ -141,20 +141,20 @@ Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu\
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 21 mins       ███████████████░░░░░░░░░░   59.57 % 
-YAML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-TeX                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-OpenEdge ABL             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Markdown                 2 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.64 % 
+C                        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+YAML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Makefile                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+OpenEdge ABL             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 51 mins       ████████████████████████░   97.81 % 
-Linux                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Mac                      4 hrs 44 mins       █████████████████████████   98.21 % 
+Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
- Last Updated on 12/06/2026 04:42:53 UTC
+ Last Updated on 13/06/2026 04:21:42 UTC
 <!--END_SECTION:waka-->
