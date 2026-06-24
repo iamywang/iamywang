@@ -151,18 +151,16 @@ Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu\
 
 ```text
 💬 Programming Languages: 
-Markdown                 37 mins             ███████████████████████░░   92.70 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 13 mins             █████████████████████░░░░   82.43 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2026 04:05:07 UTC
+ Last Updated on 24/06/2026 04:07:21 UTC
 <!--END_SECTION:waka-->
