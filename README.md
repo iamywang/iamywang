@@ -151,16 +151,15 @@ Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu\
 
 ```text
 💬 Programming Languages: 
-Markdown                 56 mins             ███████████████████████░░   93.48 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/07/2026 04:02:01 UTC
+ Last Updated on 06/07/2026 04:08:55 UTC
 <!--END_SECTION:waka-->
