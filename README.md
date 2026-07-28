@@ -137,6 +137,8 @@ Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu\
 ## Coding Stats
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%205%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -160,6 +162,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 03:42:01 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 28/07/2026 02:59:33 UTC
 <!--END_SECTION:waka-->
