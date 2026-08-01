@@ -1,18 +1,19 @@
 ## Quancheng Wang (王泉成)
 
-Ph.D. in Cyberspace Security,\
-Wuhan University,\
-Wuhan, China
+Chip Security Engineer,\
+DAMO Academy,\
+Hangzhou, China
 
 [[**Email**](mailto:wangquancheng@whu.edu.cn)], [[**GitHub**](https://github.com/iamywang)], [[**Scholar**](https://scholar.google.com/citations?user=KhWFO6sAAAAJ&hl=en)], [[**ORCID**](https://orcid.org/0000-0002-0313-1853)], [[**DBLP**](https://dblp.org/pid/342/2802.html)], [[**WoS**](https://www.webofscience.com/wos/author/record/ITT-2810-2023)], [[**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=58151310700)]
 
 ## Biography
 
-Dr. Quancheng Wang received his Ph.D. degree in 2026 from the School of Cyber Science and Engineering, Wuhan University, advised by [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/3501/37751.htm), and his B.Eng. degree in 2021 from the School of Software, Shandong University. Dr. Wang has published over 10 research papers in high-quality conferences and journals in the fields of information security and computer architecture, and has served as a reviewer for several journals. His representative research projects include the EavesDroid Side-Channel Attack (IoTJ’24), the Three-Step Branch Predictor Modeling Methodology (HPCA’24 and TACO’25), and the BranchGauge Leakage Quantification Framework (AsiaCCS’25).
+Dr. Quancheng Wang is currently a Chip Security Engineer at DAMO Academy, Alibaba Group. He received his Ph.D. degree in 2026 from the School of Cyber Science and Engineering, Wuhan University, advised by [**Prof. Ming Tang**](https://cse.whu.edu.cn/info/3501/37751.htm), and his B.Eng. degree in 2021 from the School of Software, Shandong University. Dr. Wang has published over 10 research papers in high-quality conferences and journals in the fields of information security and computer architecture, and has served as a reviewer for several journals. His representative research projects include the EavesDroid Side-Channel Attack (IoTJ’24), the Three-Step Branch Predictor Modeling Methodology (HPCA’24 and TACO’25), and the BranchGauge Leakage Quantification Framework (AsiaCCS’25).
 
 ## Background
 
 - **Working**
+  - **[2026.07 - Now]** Chip Security Engineer at DAMO Academy, Alibaba Group, Hangzhou, China
   - **[2025.04 - 2025.08]** Chip Security Engineer Intern at DAMO Academy, Alibaba Group, Hangzhou, China
 
 - **Education**
@@ -59,6 +60,11 @@ Dr. Quancheng Wang received his Ph.D. degree in 2026 from the School of Cyber Sc
 [JCR, CCF-T2, CSCD] Journal of Cryptologic Research (密码学报 in Chinese), 2024.\
 [[Paper](https://doi.org/10.13868/j.cnki.jcr.000730)]
 
+Wenxin Mao, **Quancheng Wang**, Ke Xu, Xiaoxia Cui, Ming Tang\
+**Reverse Engineering and Systematic Evaluation of Prefetcher-Based Security Vulnerabilities in Commercial RISC-V Processors**\
+[RAID, CCF-B, CORE A] International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2026.\
+[Just Accepted]
+
 Xuanyu Hu, Ming Tang, **Quancheng Wang**, Pengbo Wang, Yao Zhang\
 **Listening to the Power Rail: Real-Time Web Fingerprinting via USB-PD Side Channels**\
 [ESORICS, CCF-B, CORE A] European Symposium on Research in Computer Security (ESORICS), 2026.\
@@ -88,16 +94,6 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 **One more set: Mitigating conflict-based cache side-channel attacks by extending cache set**\
 [JSA, CCF-B, SCI三区] Journal of Systems Architecture (JSA), 2023.\
 [[Paper](https://doi.org/10.1016/j.sysarc.2023.102997)]
-
-Ming Tang, **Quancheng Wang**, Xuanyu Hu, Ke Xu, Mengxing Wang, Wenxin Mao, Liqi Xiao\
-**一种安全微架构的时间侧信道泄漏建模与量化检测方法及系统**\
-[Patent, Under Review] Patent (in Chinese) CN202610666965.7\
-[Just Submitted]
-
-Ming Tang, **Quancheng Wang**, Han Wang, Ke Xu\
-**基于备份缓存的一级数据缓存侧信道攻击防御方法及系统**\
-[Patent, Under Review] Patent (in Chinese) CN202311693095.5\
-[[Patent](http://epub.cnipa.gov.cn/patent/CN117807588A)]
 
 ## Services
 
