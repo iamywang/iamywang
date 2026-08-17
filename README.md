@@ -149,13 +149,13 @@ Yuzhe Gu, Ming Tang, **Quancheng Wang**, Han Wang, Haili Ding\
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -165,5 +165,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/08/2026 01:44:14 UTC
+ Last Updated on 17/08/2026 01:41:31 UTC
 <!--END_SECTION:waka-->
