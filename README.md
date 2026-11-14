@@ -60,15 +60,20 @@ Dr. Quancheng Wang is currently a Chip Security Engineer at DAMO Academy, Alibab
 [JCR, CCF-T2, CSCD] Journal of Cryptologic Research (密码学报 in Chinese), 2024.\
 [[Paper](https://doi.org/10.13868/j.cnki.jcr.000730)]
 
+Han Wang, Yuhao Hu, Yusi Feng, **Quancheng Wang**, Ke Xu, Tang Ming, Yun Chen, Zhe Wang, Chenggang Wu, Yinqian Zhang\
+**FrontSpec: Uncovering and Characterizing Frontend Memory Predictors on Apple M4 Processors**\
+[CCS, CCF-A, CORE A*] ACM Conference on Computer and Communications Security (CCS), 2026.\
+[[Paper](https://doi.org/10.1145/3830454.3846602)], [[Code](https://zenodo.org/records/22670155)]
+
 Wenxin Mao, **Quancheng Wang**, Ke Xu, Xiaoxia Cui, Ming Tang\
 **Reverse Engineering and Systematic Evaluation of Prefetcher-Based Security Vulnerabilities in Commercial RISC-V Processors**\
 [RAID, CCF-B, CORE A] International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2026.\
-[Just Accepted]
+[[Paper](https://doi.org/10.1007/978-3-032-42936-0_11)]
 
 Xuanyu Hu, Ming Tang, **Quancheng Wang**, Pengbo Wang, Yao Zhang\
 **Listening to the Power Rail: Real-Time Web Fingerprinting via USB-PD Side Channels**\
 [ESORICS, CCF-B, CORE A] European Symposium on Research in Computer Security (ESORICS), 2026.\
-[Just Accepted]
+[[Paper](https://doi.org/10.1007/978-3-032-38708-0_30)]
 
 Han Wang, Ming Tang, **Quancheng Wang**, Ke Xu, Yinqian Zhang\
 **ZenLeak: Practical Last-Level Cache Side-Channel Attacks on AMD Zen Processors**\
